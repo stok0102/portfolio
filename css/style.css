@@ -31,12 +31,6 @@ body {
   padding: 5px;
 }
 
-.imgProjects {
-  float: right;
-  max-width: 400px;
-  display: block;
-  }
-
   .about img {
     float: left;
     max-width: 15vw;
