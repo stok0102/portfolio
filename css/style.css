@@ -15,7 +15,7 @@ body {
   padding-top: 50px;
 }
 
-.myBody h2 {
+.myBody h2, h3 {
   text-align: center;
 }
 .backgroundText p {
@@ -24,4 +24,8 @@ body {
 
 .myBody img {
   padding-top: 10px;
+}
+
+.myBody ul {
+  list-style-type: none;
 }
