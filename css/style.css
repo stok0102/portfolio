@@ -26,6 +26,10 @@ body {
   padding-top: 10px;
 }
 
-.myBody ul {
+.myBody ul, ol {
   list-style-type: none;
+  border: solid 1px black;
+  background-color: #DED2CE;
+  margin: 5px;
+  padding: 5px;
 }
