@@ -1,0 +1,11 @@
+.myJumbo {
+  height: 100vh;
+}
+
+.myBody {
+  height: 100vh;
+}
+
+.myJumbo p {
+  max-width: 1000px;
+}
