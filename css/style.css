@@ -4,8 +4,17 @@
 
 .myBody {
   height: 100vh;
+  padding-top: 50px;
 }
 
 .myJumbo p {
   max-width: 1000px;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.myBody h2 {
+  text-align: center;
 }
