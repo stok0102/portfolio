@@ -18,9 +18,6 @@ body {
 .myBody h2, h3 {
   text-align: center;
 }
-.backgroundText p {
-  float: right;
-}
 
 .myBody img {
   padding-top: 10px;
@@ -33,3 +30,15 @@ body {
   margin: 5px;
   padding: 5px;
 }
+
+.imgProjects {
+  float: right;
+  max-width: 400px;
+  display: block;
+  }
+
+  .about img {
+    float: left;
+    max-width: 15vw;
+    padding-right: 20px;
+  }
