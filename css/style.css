@@ -21,3 +21,7 @@ body {
 .backgroundText p {
   float: right;
 }
+
+.myBody img {
+  padding-top: 10px;
+}
